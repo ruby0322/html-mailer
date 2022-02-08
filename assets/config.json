@@ -1,0 +1,13 @@
+{
+    "assets_folder_path": "assets",
+    "subject_file_name": "news.txt",
+    "greeting_file_name": "hi.txt",
+    "body_file_name": "wait.txt",
+    "closing_file_name": "best.txt",
+    "sender_file_name": "ntuimcp.txt",
+    "template_file_name": "simple.txt",
+    "receiver_file_name": "ntuimcp_ntu_all.txt",
+    "sender_mail": "",
+    "sender_password": "i<3ntuim",
+    "sender_email": "ntuimcp@gmail.com"
+}
